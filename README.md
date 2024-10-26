@@ -1,4 +1,5 @@
 # Reto-HackMx
+# Credenciales app: workspace: IkerFeda usuario: a01659516@tec.mx  contraseña: +A321e8u
 ## Reto1 (Google)
 ## Protegiendo a nuestros adultos mayores con IA
 Los adultos mayores son atacos constantemente por estafas de soporte tecnico, mail, o phishing. Utilizar la IA para proteger a los adultos mayores de estos ataques, manteniendo una interfaz amigable. Se evalua
